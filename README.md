@@ -87,6 +87,7 @@ The dataset contains the following features:
   - F1-score
 
 ---
+<img width="3106" height="1516" alt="image" src="https://github.com/user-attachments/assets/c75f6fd7-e6d5-4213-8253-7eb502562552" />
 
 ## 🧪 How to Run the Project
 
